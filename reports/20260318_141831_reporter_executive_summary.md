@@ -12,7 +12,7 @@
 # Private Credit Market Analysis
 ## One-Line Status
 
-![Chart Timeline](/tmp/projects/private-credit-2026-run28/reports/chart_timeline.png)
+![Chart Timeline](charts/chart_timeline.png)
 
 The private credit market is expected to reach $1.4 trillion by 2025, driven by increasing demand for alternative lenders, despite ongoing geopolitical tensions and rising inflation.
 
@@ -24,13 +24,13 @@ The quantitative research found that the 10Y Treasury peaked at 4.98% on October
 
 ## Scenario Outlook
 
-![Chart Scenarios](/tmp/projects/private-credit-2026-run28/reports/chart_scenarios.png)
+![Chart Scenarios](charts/chart_scenarios.png)
 
 The global economy is expected to slow down in 2026 due to ongoing geopolitical tensions and rising inflation. The private credit market is expected to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks. The quantitative research found that the default rate model suggests a peak default rate of 5.4% for the 2021 vintage, which could reach 7.7% if a rate hike materializes.
 
 ## Financial Markets Implications
 
-![Chart Market Impact](/tmp/projects/private-credit-2026-run28/reports/chart_market_impact.png)
+![Chart Market Impact](charts/chart_market_impact.png)
 
 The private credit market is likely to be influenced by the current geopolitical context and policy responses. The market may face challenges due to regulatory scrutiny and counterparty risks. However, the demand for alternative lenders is expected to continue driving the growth of the private credit market. The quantitative research found that the Senior Loan ETF (BKLN) outperformed HYG and LQD, suggesting that investors are seeking alternative lenders with lower duration risk.
 
@@ -45,7 +45,7 @@ The recommended next steps are to continue monitoring the private credit market 
 
 ## Data & Charts
 ### Chart 1: Rate & Spread Environment
-![Chart Quant 1773843047 01](/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843047_01.png)
+![Chart Quant 1773843047 01](charts/chart_quant_1773843047_01.png)
 The data shows that the 10Y Treasury peaked at 4.98% on October 19, 2023, the highest since 2007. The yield curve re-steepened to +55bps (10Y minus 2Y) as of March 2026 after ~18 months of inversion. This suggests that the market is expecting a slowdown in economic growth, but the yield curve is still positive, indicating that the market is not pricing in a recession. The chart also shows that the HY OAS is 3.22% — historically tight — suggesting public markets are not pricing significant credit stress.
 
 The chart matters to the thesis of this report because it shows that the market is expecting a slowdown in economic growth, but the yield curve is still positive. This suggests that the private credit market is likely to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks.
@@ -53,7 +53,7 @@ The chart matters to the thesis of this report because it shows that the market 
 The chart connects to the qualitative findings because it shows that the Ukraine-Russia conflict has created a challenging environment for private credit investors. The conflict has led to increased economic uncertainty and volatility, which may negatively impact the private credit market. However, the demand for alternative lenders is expected to continue driving growth in the private credit market.
 
 ### Chart 2: Credit ETF & Equity Performance
-![Chart Quant 1773843070 01](/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843070_01.png)
+![Chart Quant 1773843070 01](charts/chart_quant_1773843070_01.png)
 The data shows that the Senior Loan ETF (BKLN) returned +25.4% since January 2022, outperforming HYG (+16.2%) and LQD (-1.4%). This suggests that investors are seeking alternative lenders with lower duration risk. The chart also shows that the VIX spiked to 52.3 on April 8, 2025, the largest post-COVID volatility shock, correlated with the tariff announcement event.
 
 The chart matters to the thesis of this report because it shows that investors are seeking alternative lenders with lower duration risk. This suggests that the private credit market is likely to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks.
@@ -61,7 +61,7 @@ The chart matters to the thesis of this report because it shows that investors a
 The chart connects to the qualitative findings because it shows that the Ukraine-Russia conflict has created a challenging environment for private credit investors. The conflict has led to increased economic uncertainty and volatility, which may negatively impact the private credit market. However, the demand for alternative lenders is expected to continue driving growth in the private credit market.
 
 ### Chart 3: Private Credit Stress Indicators
-![Chart Quant 1773843179 01](/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843179_01.png)
+![Chart Quant 1773843179 01](charts/chart_quant_1773843179_01.png)
 The data shows that loan tightening peaked at +50.8% in Q3 2023, over half of banks net-tightened C&I standards post-SVB, directly compressing the refinancing options for leveraged borrowers and channelling them toward private credit at higher rates. The chart also shows that the current tightening is +5.3%, easing but still positive; banks have not fully reopened the credit window.
 
 The chart matters to the thesis of this report because it shows that the market is expecting a slowdown in economic growth, but the yield curve is still positive. This suggests that the private credit market is likely to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks.
@@ -69,7 +69,7 @@ The chart matters to the thesis of this report because it shows that the market 
 The chart connects to the qualitative findings because it shows that the Ukraine-Russia conflict has created a challenging environment for private credit investors. The conflict has led to increased economic uncertainty and volatility, which may negatively impact the private credit market. However, the demand for alternative lenders is expected to continue driving growth in the private credit market.
 
 ### Chart 4: Quantitative Chart 4
-![Chart Quant 1773843180 02](/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_02.png)
+![Chart Quant 1773843180 02](charts/chart_quant_1773843180_02.png)
 The data shows that the private credit market is expected to continue growing, driven by increasing demand for alternative lenders. The chart also shows that the market may face challenges due to regulatory scrutiny and counterparty risks.
 
 The chart matters to the thesis of this report because it shows that the private credit market is likely to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks.
@@ -77,7 +77,7 @@ The chart matters to the thesis of this report because it shows that the private
 The chart connects to the qualitative findings because it shows that the Ukraine-Russia conflict has created a challenging environment for private credit investors. The conflict has led to increased economic uncertainty and volatility, which may negatively impact the private credit market. However, the demand for alternative lenders is expected to continue driving growth in the private credit market.
 
 ### Chart 5: Quantitative Chart 5
-![Chart Quant 1773843180 03](/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_03.png)
+![Chart Quant 1773843180 03](charts/chart_quant_1773843180_03.png)
 The data shows that the default rate model suggests a peak default rate of 5.4% for the 2021 vintage, which could reach 7.7% if a rate hike materializes. The chart also shows that the market is expecting a slowdown in economic growth, but the yield curve is still positive.
 
 The chart matters to the thesis of this report because it shows that the private credit market is likely to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks.
@@ -85,7 +85,7 @@ The chart matters to the thesis of this report because it shows that the private
 The chart connects to the qualitative findings because it shows that the Ukraine-Russia conflict has created a challenging environment for private credit investors. The conflict has led to increased economic uncertainty and volatility, which may negatively impact the private credit market. However, the demand for alternative lenders is expected to continue driving growth in the private credit market.
 
 ### Chart 6: Quantitative Chart 6
-![Chart Quant 1773843324 01](/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843324_01.png)
+![Chart Quant 1773843324 01](charts/chart_quant_1773843324_01.png)
 The data shows that the private credit market is expected to continue growing, driven by increasing demand for alternative lenders. The chart also shows that the market may face challenges due to regulatory scrutiny and counterparty risks.
 
 The chart matters to the thesis of this report because it shows that the private credit market is likely to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks.
@@ -93,7 +93,7 @@ The chart matters to the thesis of this report because it shows that the private
 The chart connects to the qualitative findings because it shows that the Ukraine-Russia conflict has created a challenging environment for private credit investors. The conflict has led to increased economic uncertainty and volatility, which may negatively impact the private credit market. However, the demand for alternative lenders is expected to continue driving growth in the private credit market.
 
 ### Chart 7: Quantitative Chart 7
-![Chart Quant 1773843357 01](/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843357_01.png)
+![Chart Quant 1773843357 01](charts/chart_quant_1773843357_01.png)
 The data shows that the default rate model suggests a peak default rate of 5.4% for the 2021 vintage, which could reach 7.7% if a rate hike materializes. The chart also shows that the market is expecting a slowdown in economic growth, but the yield curve is still positive.
 
 The chart matters to the thesis of this report because it shows that the private credit market is likely to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks.
@@ -101,7 +101,7 @@ The chart matters to the thesis of this report because it shows that the private
 The chart connects to the qualitative findings because it shows that the Ukraine-Russia conflict has created a challenging environment for private credit investors. The conflict has led to increased economic uncertainty and volatility, which may negatively impact the private credit market. However, the demand for alternative lenders is expected to continue driving growth in the private credit market.
 
 ### Chart 8: Quantitative Chart 8
-![Chart Quant 1773843388 01](/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843388_01.png)
+![Chart Quant 1773843388 01](charts/chart_quant_1773843388_01.png)
 The data shows that the private credit market is expected to continue growing, driven by increasing demand for alternative lenders. The chart also shows that the market may face challenges due to regulatory scrutiny and counterparty risks.
 
 The chart matters to the thesis of this report because it shows that the private credit market is likely to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks.
@@ -109,7 +109,7 @@ The chart matters to the thesis of this report because it shows that the private
 The chart connects to the qualitative findings because it shows that the Ukraine-Russia conflict has created a challenging environment for private credit investors. The conflict has led to increased economic uncertainty and volatility, which may negatively impact the private credit market. However, the demand for alternative lenders is expected to continue driving growth in the private credit market.
 
 ### Chart 9: Quantitative Chart 9
-![Chart Quant 1773843409 01](/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843409_01.png)
+![Chart Quant 1773843409 01](charts/chart_quant_1773843409_01.png)
 The data shows that the default rate model suggests a peak default rate of 5.4% for the 2021 vintage, which could reach 7.7% if a rate hike materializes. The chart also shows that the market is expecting a slowdown in economic growth, but the yield curve is still positive.
 
 The chart matters to the thesis of this report because it shows that the private credit market is likely to continue growing, driven by increasing demand for alternative lenders. However, the market may face challenges due to regulatory scrutiny and counterparty risks.
