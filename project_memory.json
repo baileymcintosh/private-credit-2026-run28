@@ -5,7 +5,7 @@
   "key_findings": [],
   "open_questions": [
     {
-      "id": "A_21b417d3",
+      "id": "A_92dd7ce7",
       "question": "Fetch market and economic data, produce charts, and quantify the financial and statistical claims.",
       "owner": "quant",
       "priority": "high",
@@ -13,20 +13,20 @@
       "status": "in_progress",
       "created_by": "planner",
       "note": "",
-      "created_at": "2026-03-18T16:32:47",
-      "updated_at": "2026-03-18T16:32:51"
+      "created_at": "2026-03-18T16:42:29",
+      "updated_at": "2026-03-18T16:42:33"
     },
     {
-      "id": "A_5a4960a4",
-      "question": "Interest rate sensitivity to private credit market in historical scenarios like past interest rate hikes by the Federal Reserve or ECB.",
+      "id": "A_ed2a7a4f",
+      "question": "Investigate volatility index spikes related to geopolitical events affecting private credit markets.",
       "owner": "quant",
       "priority": "high",
-      "difficulty": "synthesis",
+      "difficulty": "complex",
       "status": "open",
       "created_by": "qual_builder",
-      "note": "Could provide insights into the current market conditions anticipation.",
-      "created_at": "2026-03-18T16:34:01",
-      "updated_at": "2026-03-18T16:34:01"
+      "note": "Check for correlations with geopolitical announcements or major policy changes.",
+      "created_at": "2026-03-18T16:43:38",
+      "updated_at": "2026-03-18T16:43:38"
     }
   ]
 }

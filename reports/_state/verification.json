@@ -1,12 +1,22 @@
 {
   "verdict": "FAIL",
-  "summary": "# Verification Report\n\n**Verdict:** FAIL\n**Claims reviewed:** 0\n**Sources reviewed:** 0\n**Open agenda items:** 2\n\n## Findings\n1. [HIGH] No structured claims recorded. \u2014 Builders did not emit any evidence payloads.",
+  "summary": "# Verification Report\n\n**Verdict:** FAIL\n**Claims reviewed:** 3\n**Sources reviewed:** 0\n**Open agenda items:** 2\n\n## Findings\n1. [MEDIUM] Global geopolitical shifts, including U.S.-China tensions, impact private credit risk assessment and capital allocation. \u2014 Claim has no linked sources or data artifacts.\n2. [HIGH] The SEC and FCA are focused on heightening transparency in private credit transactions amid growing market sizes. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n3. [HIGH] Counterparty and liquidity risks are aggravated by loosening covenant standards and increased redemption pressures in private credit. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
   "findings": [
     {
+      "severity": "medium",
+      "claim": "Global geopolitical shifts, including U.S.-China tensions, impact private credit risk assessment and capital allocation.",
+      "note": "Claim has no linked sources or data artifacts."
+    },
+    {
       "severity": "high",
-      "claim": "No structured claims recorded.",
-      "note": "Builders did not emit any evidence payloads."
+      "claim": "The SEC and FCA are focused on heightening transparency in private credit transactions amid growing market sizes.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "Counterparty and liquidity risks are aggravated by loosening covenant standards and increased redemption pressures in private credit.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     }
   ],
-  "created_at": "2026-03-18T16:34:03"
+  "created_at": "2026-03-18T16:43:40"
 }
