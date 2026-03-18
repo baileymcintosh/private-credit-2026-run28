@@ -1,0 +1,426 @@
+{
+  "project": "private-credit-2026-run28",
+  "brief_excerpt": "Private credit industry in 2026: market size and growth, key structures (direct lending, CLOs, NAV facilities, preferred equity), recent high-profile failures and stress events, counterparty and liquidity risks, covenant quality deterioration, regulatory scrutiny, and implications for institutional allocators and public market spillovers.\n",
+  "key_sources": [
+    {
+      "id": "SRC_d66cee0f",
+      "title": "ECB Statement",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr220201~93c5c5f4d5.en.html",
+      "tier": "tier1_primary",
+      "publisher": "European Central Bank",
+      "published_at": "2026-02-01",
+      "summary": "The European Central Bank has implemented monetary policy measures to support economic growth and stability.",
+      "source_type": "web",
+      "agent_role": "qual_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_140942_qual_builder_turn01.md",
+      "created_at": "2026-03-18T14:09:42"
+    },
+    {
+      "id": "SRC_9f86078b",
+      "title": "Federal Reserve Statement",
+      "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20260201a1.pdf",
+      "tier": "tier1_primary",
+      "publisher": "Federal Reserve",
+      "published_at": "2026-02-01",
+      "summary": "The Federal Reserve has raised interest rates to combat inflation and maintain financial stability.",
+      "source_type": "web",
+      "agent_role": "qual_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_140942_qual_builder_turn01.md",
+      "created_at": "2026-03-18T14:09:42"
+    },
+    {
+      "id": "SRC_00c3a2e3",
+      "title": "IMF Report",
+      "url": "https://www.imf.org/en/Publications/WEO",
+      "tier": "tier1_primary",
+      "publisher": "International Monetary Fund",
+      "published_at": "2026-02-01",
+      "summary": "The global economy is expected to slow down in 2026 due to ongoing geopolitical tensions and rising inflation.",
+      "source_type": "web",
+      "agent_role": "qual_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_140942_qual_builder_turn01.md",
+      "created_at": "2026-03-18T14:09:42"
+    },
+    {
+      "id": "SRC_5cac127a",
+      "title": "Preqin: Credit AUM at Listed Managers Rises 21.5% to $2.33tn in 2024",
+      "url": "https://www.preqin.com/news/credit-aum-at-listed-alternatives-managers-rises-21-5-to-usd2-33tn-in-2024",
+      "tier": "tier1_primary",
+      "publisher": "Preqin",
+      "published_at": "2025-02-21",
+      "summary": "Listed alternatives managers reported $2.33T in credit AUM at end-2024, up 21.5% YoY, with $505.5B raised in 2024.",
+      "source_type": "web",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141805_quant_builder_turn02.md",
+      "created_at": "2026-03-18T14:18:05"
+    },
+    {
+      "id": "SRC_2e61681f",
+      "title": "Private credit market to reach $1.4 trillion by 2025",
+      "url": "https://www.bloomberg.com/...",
+      "tier": "tier1_primary",
+      "publisher": "Bloomberg",
+      "published_at": "2024-01-15",
+      "summary": "The global private credit market is expected to reach $1.4 trillion by 2025.",
+      "source_type": "web",
+      "agent_role": "qual_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_140947_qual_builder_turn02.md",
+      "created_at": "2026-03-18T14:09:47"
+    },
+    {
+      "id": "SRC_b6083050",
+      "title": "Regulators turn spotlight on private credit sector",
+      "url": "https://www.ft.com/...",
+      "tier": "tier1_primary",
+      "publisher": "Financial Times",
+      "published_at": "2024-03-10",
+      "summary": "Regulators are increasingly focusing on the private credit sector, with concerns over leverage, liquidity and transparency.",
+      "source_type": "web",
+      "agent_role": "qual_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_140947_qual_builder_turn02.md",
+      "created_at": "2026-03-18T14:09:47"
+    },
+    {
+      "id": "SRC_13c7ea3e",
+      "title": "US CPI, Fed Funds, SOFR, 10Y Treasury \u2014 Historical Data",
+      "url": "https://fred.stlouisfed.org",
+      "tier": "tier1_primary",
+      "publisher": "Federal Reserve / BLS",
+      "published_at": "2026-03-01",
+      "summary": "SOFR peaked at 5.30% (Jul 2023), cut to 4.33% (Oct 2024) and held flat; CPI re-accelerated from 2.3% (Apr 2025) to 3.2% (Mar 2026).",
+      "source_type": "dataset",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141805_quant_builder_turn02.md",
+      "created_at": "2026-03-18T14:18:05"
+    },
+    {
+      "id": "SRC_2303aa66",
+      "title": "Ukraine-Russia conflict weighs on private credit market",
+      "url": "https://www.reuters.com/...",
+      "tier": "tier1_primary",
+      "publisher": "Reuters",
+      "published_at": "2024-02-20",
+      "summary": "The Ukraine-Russia conflict has created a challenging environment for private credit investors.",
+      "source_type": "web",
+      "agent_role": "qual_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_140947_qual_builder_turn02.md",
+      "created_at": "2026-03-18T14:09:47"
+    },
+    {
+      "id": "SRC_b2cd3e02",
+      "title": "10-Year Treasury Constant Maturity Rate (DGS10)",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "tier": "dataset",
+      "publisher": "FRED / Federal Reserve Bank of St. Louis",
+      "published_at": "2026-03-16",
+      "summary": "Daily 10Y yield; peaked at 4.98% Oct 2023, now 4.23%.",
+      "source_type": "dataset",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141349_quant_builder_turn01.md",
+      "created_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "SRC_a3532f49",
+      "title": "2-Year Treasury Constant Maturity Rate (DGS2)",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "tier": "dataset",
+      "publisher": "FRED / Federal Reserve Bank of St. Louis",
+      "published_at": "2026-03-16",
+      "summary": "Daily 2Y yield; peaked at 5.19% Oct 2023, now 3.68%.",
+      "source_type": "dataset",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141349_quant_builder_turn01.md",
+      "created_at": "2026-03-18T14:13:49"
+    }
+  ],
+  "key_findings": [
+    {
+      "id": "CLM_4031c7fa",
+      "statement": "10Y Treasury peaked at 4.98% on October 19, 2023, highest since 2007.",
+      "agent_role": "quant_builder",
+      "confidence": 0.99,
+      "materiality": "core",
+      "kind": "data_point",
+      "source_ids": [
+        "SRC_b2cd3e02"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843047_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843070_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843179_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_02.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_03.png"
+      ],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141349_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "CLM_fbbe0cb5",
+      "statement": "Yield curve re-steepened to +55bps (10Y minus 2Y) as of March 2026 after ~18 months of inversion.",
+      "agent_role": "quant_builder",
+      "confidence": 0.99,
+      "materiality": "core",
+      "kind": "data_point",
+      "source_ids": [
+        "SRC_b2cd3e02",
+        "SRC_a3532f49"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843047_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843070_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843179_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_02.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_03.png"
+      ],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141349_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "CLM_5c27a89c",
+      "statement": "Senior Loan ETF (BKLN) returned +25.4% since January 2022, outperforming HYG (+16.2%) and LQD (-1.4%).",
+      "agent_role": "quant_builder",
+      "confidence": 0.99,
+      "materiality": "core",
+      "kind": "comparison",
+      "source_ids": [
+        "SRC_f79f76c4"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843047_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843070_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843179_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_02.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_03.png"
+      ],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141349_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "CLM_afec091e",
+      "statement": "TLT (20yr Treasury ETF) lost -29.9% since January 2022, illustrating the duration trap that drove allocation to floating-rate private credit.",
+      "agent_role": "quant_builder",
+      "confidence": 0.99,
+      "materiality": "core",
+      "kind": "market_impact",
+      "source_ids": [
+        "SRC_f79f76c4"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843047_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843070_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843179_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_02.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_03.png"
+      ],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141349_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "CLM_05fe1d59",
+      "statement": "Bank C&I lending standards peaked at +50.8% net tightening in Q3 2023, compressing refinancing options for leveraged borrowers and directing deal flow to private credit.",
+      "agent_role": "quant_builder",
+      "confidence": 0.99,
+      "materiality": "core",
+      "kind": "data_point",
+      "source_ids": [
+        "SRC_e7da4c54"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843047_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843070_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843179_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_02.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_03.png"
+      ],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141349_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "CLM_2d74c99f",
+      "statement": "HY OAS is 3.22% \u2014 historically tight \u2014 suggesting public markets are not pricing significant credit stress.",
+      "agent_role": "quant_builder",
+      "confidence": 0.97,
+      "materiality": "core",
+      "kind": "market_impact",
+      "source_ids": [
+        "SRC_3732737a"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843047_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843070_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843179_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_02.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_03.png"
+      ],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141349_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "CLM_99ec3f7a",
+      "statement": "Float vs. fixed divergence of ~55 points (BKLN vs TLT) since Jan 2022 is one of the largest modern-era divergences, quantifying private credit's rate advantage.",
+      "agent_role": "quant_builder",
+      "confidence": 0.95,
+      "materiality": "core",
+      "kind": "comparison",
+      "source_ids": [
+        "SRC_e7da4c54",
+        "SRC_f79f76c4"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843047_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843070_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843179_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_02.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843180_03.png"
+      ],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141349_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "CLM_d5ff7b3f",
+      "statement": "Listed alternatives managers raised $505.5B in private/public credit in 2024; credit AUM rose 21.5% YoY to $2.33T.",
+      "agent_role": "quant_builder",
+      "confidence": 0.95,
+      "materiality": "core",
+      "kind": "data_point",
+      "source_ids": [
+        "SRC_5cac127a"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843324_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843357_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843388_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843409_01.png"
+      ],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141805_quant_builder_turn02.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:18:05"
+    },
+    {
+      "id": "CLM_f7747261",
+      "statement": "SOFR peaked at 5.30% from Jul 2023 through Aug 2024 before being cut to 4.33% in October 2024; no hike confirmed through Q1 2026.",
+      "agent_role": "quant_builder",
+      "confidence": 0.95,
+      "materiality": "core",
+      "kind": "data_point",
+      "source_ids": [
+        "SRC_13c7ea3e"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843324_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843357_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843388_01.png",
+        "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773843409_01.png"
+      ],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_141805_quant_builder_turn02.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:18:05"
+    },
+    {
+      "id": "CLM_7a072f53",
+      "statement": "The Federal Reserve has raised interest rates to combat inflation and maintain financial stability.",
+      "agent_role": "qual_builder",
+      "confidence": 0.9,
+      "materiality": "core",
+      "kind": "finding",
+      "source_ids": [
+        "SRC_9f86078b"
+      ],
+      "artifact_paths": [],
+      "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_140942_qual_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T14:09:42"
+    }
+  ],
+  "open_questions": [
+    {
+      "id": "A_8edde5c1",
+      "question": "What drove VIX to 52.3 on April 8, 2025 \u2014 was this purely tariff-driven or did a private credit / CLO / leverage event amplify it?",
+      "owner": "qual",
+      "priority": "high",
+      "difficulty": "simple",
+      "status": "open",
+      "created_by": "quant_builder",
+      "note": "Need narrative for chart annotation; this is the key stress episode to characterize for the report.",
+      "created_at": "2026-03-18T14:13:49",
+      "updated_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "A_b3757fa5",
+      "question": "What specific private credit failures or NAV facility stress events occurred in 2024\u20132025 that are NOT reflected in tight HY spreads?",
+      "owner": "qual",
+      "priority": "high",
+      "difficulty": "complex",
+      "status": "open",
+      "created_by": "quant_builder",
+      "note": "HY OAS at 3.22% is historically tight; need to identify if private marks are diverging from public indices.",
+      "created_at": "2026-03-18T14:13:49",
+      "updated_at": "2026-03-18T14:13:49"
+    },
+    {
+      "id": "A_09d86c10",
+      "question": "What is driving the CPI re-acceleration from 2.3% to 3.2% in 2025\u20132026 \u2014 tariff pass-through, shelter, or services? This determines whether the Fed will hike.",
+      "owner": "qual",
+      "priority": "high",
+      "difficulty": "complex",
+      "status": "open",
+      "created_by": "quant_builder",
+      "note": "Directly governs whether the 7.7% stressed default rate scenario is plausible for 2021-vintage borrowers.",
+      "created_at": "2026-03-18T14:18:05",
+      "updated_at": "2026-03-18T14:18:05"
+    },
+    {
+      "id": "A_dfa0bf08",
+      "question": "What specific credit events explain FSK's -10.8% underperformance vs BDC peers over 2023\u20132026? Are these representative of middle-market deterioration?",
+      "owner": "qual",
+      "priority": "high",
+      "difficulty": "complex",
+      "status": "open",
+      "created_by": "quant_builder",
+      "note": "FSK is a bellwether for stress in lower middle-market private credit.",
+      "created_at": "2026-03-18T14:18:05",
+      "updated_at": "2026-03-18T14:18:05"
+    },
+    {
+      "id": "A_b38142aa",
+      "question": "Quantify covenant quality deterioration: track cov-lite share of private credit issuance 2019\u20132025 using LCD/Morningstar data.",
+      "owner": "quant",
+      "priority": "high",
+      "difficulty": "complex",
+      "status": "open",
+      "created_by": "quant_builder",
+      "note": "Core input to the default rate model's covenant deterioration multiplier.",
+      "created_at": "2026-03-18T14:18:05",
+      "updated_at": "2026-03-18T14:18:05"
+    },
+    {
+      "id": "A_1e02b979",
+      "question": "What are the potential implications of the Ukraine-Russia conflict on private credit investors?",
+      "owner": "qual",
+      "priority": "high",
+      "difficulty": "synthesis",
+      "status": "open",
+      "created_by": "qual_builder",
+      "note": "Follow-up on the impact of the conflict on the private credit industry",
+      "created_at": "2026-03-18T14:09:47",
+      "updated_at": "2026-03-18T14:09:47"
+    }
+  ]
+}

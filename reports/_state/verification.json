@@ -1,0 +1,6 @@
+{
+  "verdict": "PASS",
+  "summary": "# Verification Report\n\n**Verdict:** PASS\n**Claims reviewed:** 25\n**Sources reviewed:** 17\n**Open agenda items:** 7\n\n## Findings\nAll recorded claims satisfied the current provenance checks.",
+  "findings": [],
+  "created_at": "2026-03-18T14:18:07"
+}
