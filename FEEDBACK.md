@@ -1,19 +1,13 @@
-The second deep run's quant agent produced excellent material (1.73T AUM, Pluralsight 00M exposure, cov-lite 58%, 5.6x EBITDA addback expansion, HLEND .2B redemption queue, ARCC -18.8% tariff shock drawdown, BDC defaults 5.7%, NAV facilities 45B) but the verifier FAILED because the qual agent made broad unsupported claims about 'geopolitical tensions amplifying volatility' and 'China property downturn posing credit risks' without strong tier-1 sources.
+CRITICAL QUALITY FAILURES — MUST FIX ALL:
 
-THE CORE DIRECTIVE FOR THIS RUN:
+1. CHART BOILERPLATE — Charts 4, 6, 8 and 9 are pure placeholder text: 'The data shows that the private credit market is expected to continue growing.' This is unacceptable. Each chart paragraph must cite specific numbers from that chart, explain what inflection or trend is visible, and tie it to a named event.
 
-The qual agent must NOT make broad macro claims about China, the Middle East, or geopolitical tensions unless it has a specific, named source with a URL. The qual agent's job in this run is NARROWLY to contextualize the private credit market facts that the quant already documented.
+2. MISSING NAMED STRUCTURES: Report never mentions CLOs (Collateralized Loan Obligations) or NAV facilities. Must discuss: (a) direct lending structures and typical spread/SOFR+ terms in 2026, (b) CLO formation volumes and current AAA spreads vs. 2021 lows, (c) NAV facility risks and the controversy around using LP interests as collateral, (d) preferred equity as stressed-borrower lifeline.
 
-WHAT THE QUAL AGENT SHOULD WRITE ABOUT (all supported by quant findings):
+3. NO NAMED STRESS/FAILURE EVENTS WITH DOLLAR FIGURES: The quality bar requires 'named recent stress/failure events with dollar figures.' Examples to research and include: Pluralsight LBO stress (~.4B debt), Envision Healthcare bankruptcy (.7B), Genesis Capital/crypto credit, any 2025-2026 private credit defaults. Do NOT use vague 'Ukraine-Russia' framing as a proxy for credit stress.
 
-1. COVENANT QUALITY NARRATIVE: Contextualize why cov-lite expansion from 5% (2012) to 58% (2025) happened. The narrative is: record dry powder (.5T+ projected by 2030) created competition among lenders forcing documentation concessions. The Pluralsight case (Vista equity→/usr/bin/bash, lenders marked above 95c until default) illustrates the consequence. The EBITDA addback expansion (synergies in 88% of deals, 36-month realization windows) means leverage covenants are mathematically harder to trigger.
+4. MISSING REGULATORY SPECIFICS: Must name: SEC Form PF amendments (expanded reporting for large private funds), BDC leverage rules (1:1 asset coverage ratio change to 2:1 under SBCAA), SEC's 2023/2024 private fund adviser rules, Gensler/SEC enforcement actions on fee disclosure. Current report has zero regulatory specifics.
 
-2. LME AND STRESS EVENT NARRATIVE: Pluralsight (B debt, 2021 vintage, first documented LME in private credit, IP drop-down to fund interest payment, ultimately equity-for-debt swap). Peraton (00M BDC exposure). IDG (debt-for-equity swap pathway). Zips Car Wash. These are DOCUMENTED in the quant sources (Debevoise, KBRA, iCapital). Write the qualitative narrative connecting them.
+5. NO COVENANT QUALITY DATA: Add section on covenant-lite loan prevalence (>85% of leveraged loans by 2024), EBITDA add-back inflation, payment-in-kind (PIK) toggle structures, and what this means for recovery rates in default scenarios.
 
-3. NAV FACILITY RISK NARRATIVE: 45B outstanding. ILPA best-practice guidelines (2024) issued because GPs used NAV lines to fund LP distributions — effectively leverage on leverage. 17Capital B Brookfield injection. HLEND .2B redemption queue, 5% quarterly gate, ~80M still queued. This is the semi-liquid structure risk that retail investors don't understand.
-
-4. REGULATORY CONTEXT: Form PF deadline extended to October 2026 via Trump executive order (Jan 20, 2025). This is pro-industry deregulation signal. UK FCA multi-firm review active. ECB data request from banks on private credit exposures. Basel III capital requirements paradoxically push lending INTO private credit (structural tailwind).
-
-5. ALLOCATOR IMPLICATIONS: 0.856 ARCC-HYG 90-day correlation during tariff stress (vs 0.324 during calm). Economic volatility ~7.5% vs reported 4% (appraisal smoothing overstates diversification by ~40%). Optimal institutional allocation 10-15% per JP Morgan/Preqin/iCapital consensus.
-
-The qual agent must cite specific sources from the quant's evidence JSON when making these claims — the sources are already documented there (Debevoise, KBRA, iCapital, Paul Weiss, Latham, ABF Journal, BlackRock/Preqin). DO NOT make new unsourced macro claims. Stick to what the quant has already documented with named sources.
+6. ALLOCATOR IMPLICATIONS: Missing entirely. Add: pension fund allocation trends (CalPERS, CDPQ targets), denominator effect from 2022-2023, liquidity mismatch for open-ended private credit vehicles, J-curve dynamics vs. BDC returns.
