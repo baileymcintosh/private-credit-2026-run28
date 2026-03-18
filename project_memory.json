@@ -5,7 +5,7 @@
   "key_findings": [],
   "open_questions": [
     {
-      "id": "A_0f44166d",
+      "id": "A_65488fe2",
       "question": "Fetch market and economic data, produce charts, and quantify the financial and statistical claims.",
       "owner": "quant",
       "priority": "high",
@@ -13,32 +13,20 @@
       "status": "in_progress",
       "created_by": "planner",
       "note": "",
-      "created_at": "2026-03-18T16:12:43",
-      "updated_at": "2026-03-18T16:12:46"
+      "created_at": "2026-03-18T16:22:09",
+      "updated_at": "2026-03-18T16:22:13"
     },
     {
-      "id": "A_e007b4a1",
-      "question": "How have interest rate fluctuations from 2024 to 2026 impacted borrowing costs in the private credit market?",
-      "owner": "quant",
+      "id": "A_d1ec377f",
+      "question": "Investigate the geopolitical context, policy responses, and key actors relevant to this research brief.",
+      "owner": "qual",
       "priority": "high",
       "difficulty": "complex",
-      "status": "open",
-      "created_by": "qual_builder",
-      "note": "Interest rates directly affect private credit costs and investment viability.",
-      "created_at": "2026-03-18T16:14:07",
-      "updated_at": "2026-03-18T16:14:07"
-    },
-    {
-      "id": "A_897e6304",
-      "question": "What trends in default rates have been observed in private credit markets post-2023?",
-      "owner": "quant",
-      "priority": "high",
-      "difficulty": "complex",
-      "status": "open",
-      "created_by": "qual_builder",
-      "note": "Understanding default trends is critical for assessing market stability.",
-      "created_at": "2026-03-18T16:14:07",
-      "updated_at": "2026-03-18T16:14:07"
+      "status": "in_progress",
+      "created_by": "planner",
+      "note": "",
+      "created_at": "2026-03-18T16:22:09",
+      "updated_at": "2026-03-18T16:22:10"
     }
   ]
 }
