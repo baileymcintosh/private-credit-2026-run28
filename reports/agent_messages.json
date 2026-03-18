@@ -1,20 +1,20 @@
 [
   {
-    "id": "8e1e3bfb",
+    "id": "ae2ddec9",
     "from_agent": "qual",
     "to_agent": "quant",
     "message_type": "question",
-    "content": "- Check trends in private credit allocation by institutional investors and related market pricing around 2026. Insights into both potential stress events or variations in investor behavior linked to geopolitical uncertainties would be valuable.",
-    "timestamp": 1773849739.4637291,
+    "content": "- Check private credit volume and interest rates trends around 2025-2026 \u2014 a shifting geopolitical context could manifest in market patterns.\n- Review BDC leverage and yield data post-SBCAA 2018; these may clarify the implications of altered regulatory frameworks.\n- Examine shifts in CLO issuance spreads compared to historical benchmarks; should evidence regulatory scrutiny impacts on market dynamics.",
+    "timestamp": 1773850397.7660353,
     "read": false
   },
   {
-    "id": "22719a8e",
+    "id": "08f3da13",
     "from_agent": "qual",
     "to_agent": "quant",
     "message_type": "question",
-    "content": "- Check private credit market volume and participant trends for 2025-2026 \u2014 expect regulatory announcements to influence these metrics significantly.\nThis analysis is framed based on available data up to 2023. For fully updated details, further search or direct financial regulatory databases should be consulted.",
-    "timestamp": 1773849776.702119,
+    "content": "- Check interest rate trends from 2024 to 2026 \u2014 these could reveal shifts impacting private credit borrowing costs.\n- Investigate default rates in private credit markets post-2023 \u2014 any rise or stabilization would indicate market health and risk tolerance.",
+    "timestamp": 1773850447.5534747,
     "read": false
   }
 ]

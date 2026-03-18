@@ -1,32 +1,52 @@
 {
   "verdict": "FAIL",
-  "summary": "# Verification Report\n\n**Verdict:** FAIL\n**Claims reviewed:** 5\n**Sources reviewed:** 0\n**Open agenda items:** 2\n\n## Findings\n1. [HIGH] SEC regulations on private credit funds have been tightening, focusing on transparency through updated reporting forms like Form PF. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n2. [HIGH] Leading asset managers such as BlackRock and Apollo Management significantly influence the private credit market through establishing trends and financing structures. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n3. [HIGH] The SEC has historically aimed to expand Form PF reporting requirements for private funds to increase transparency. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n4. [MEDIUM] Business Development Companies' leverage rules have been adjusted under SBCAA, allowing increased leverage. \u2014 Claim has no linked sources or data artifacts.\n5. [HIGH] Gary Gensler's SEC has been known for strict enforcement, with a focus on transparency and investor protection. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
+  "summary": "# Verification Report\n\n**Verdict:** FAIL\n**Claims reviewed:** 9\n**Sources reviewed:** 0\n**Open agenda items:** 3\n\n## Findings\n1. [HIGH] SEC Form PF amendments in November 2023 require large hedge funds to report within 72 hours of significant events. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n2. [HIGH] BDC leverage rules enable entities like FS KKR, Blue Owl, and Ares Capital to maintain up to 2:1 leverage. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n3. [HIGH] The US CLO issuance reached $85 billion in 2024 with spreads around 130 basis points over LIBOR/SOFR. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n4. [HIGH] Allocations by institutional investors like CalPERS reflect strategic adjustments in light of private credit opportunities. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n5. [HIGH] Central banks' interest rate policies are crucial for the private credit market, influencing borrowing costs and risk profiles. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n6. [HIGH] The private credit market is projected to reach .7 trillion by 2025, growing at approximately 15% annually. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n7. [HIGH] Default rates in the private credit market peaked at 3.1% in 2023, indicating growing stresses within the sector. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n8. [HIGH] Increased regulatory scrutiny through measures like SEC Form PF amendments impacts transparency requirements for private credit funds. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n9. [HIGH] Allocators like CalPERS are significantly adjusting private credit allocations, with a target of 17% by 2025. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
   "findings": [
     {
       "severity": "high",
-      "claim": "SEC regulations on private credit funds have been tightening, focusing on transparency through updated reporting forms like Form PF.",
+      "claim": "SEC Form PF amendments in November 2023 require large hedge funds to report within 72 hours of significant events.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     },
     {
       "severity": "high",
-      "claim": "Leading asset managers such as BlackRock and Apollo Management significantly influence the private credit market through establishing trends and financing structures.",
+      "claim": "BDC leverage rules enable entities like FS KKR, Blue Owl, and Ares Capital to maintain up to 2:1 leverage.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     },
     {
       "severity": "high",
-      "claim": "The SEC has historically aimed to expand Form PF reporting requirements for private funds to increase transparency.",
+      "claim": "The US CLO issuance reached $85 billion in 2024 with spreads around 130 basis points over LIBOR/SOFR.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     },
     {
-      "severity": "medium",
-      "claim": "Business Development Companies' leverage rules have been adjusted under SBCAA, allowing increased leverage.",
-      "note": "Claim has no linked sources or data artifacts."
+      "severity": "high",
+      "claim": "Allocations by institutional investors like CalPERS reflect strategic adjustments in light of private credit opportunities.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     },
     {
       "severity": "high",
-      "claim": "Gary Gensler's SEC has been known for strict enforcement, with a focus on transparency and investor protection.",
+      "claim": "Central banks' interest rate policies are crucial for the private credit market, influencing borrowing costs and risk profiles.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "The private credit market is projected to reach .7 trillion by 2025, growing at approximately 15% annually.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "Default rates in the private credit market peaked at 3.1% in 2023, indicating growing stresses within the sector.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "Increased regulatory scrutiny through measures like SEC Form PF amendments impacts transparency requirements for private credit funds.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "Allocators like CalPERS are significantly adjusting private credit allocations, with a target of 17% by 2025.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     }
   ],
-  "created_at": "2026-03-18T16:02:58"
+  "created_at": "2026-03-18T16:14:09"
 }

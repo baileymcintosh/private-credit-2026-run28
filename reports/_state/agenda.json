@@ -1,6 +1,6 @@
 [
   {
-    "id": "A_5dd0cd16",
+    "id": "A_56ee0fad",
     "question": "Investigate the geopolitical context, policy responses, and key actors relevant to this research brief.",
     "owner": "qual",
     "priority": "high",
@@ -8,11 +8,11 @@
     "status": "done",
     "created_by": "planner",
     "note": "",
-    "created_at": "2026-03-18T16:01:05",
-    "updated_at": "2026-03-18T16:02:19"
+    "created_at": "2026-03-18T16:12:43",
+    "updated_at": "2026-03-18T16:13:17"
   },
   {
-    "id": "A_51b59b29",
+    "id": "A_0f44166d",
     "question": "Fetch market and economic data, produce charts, and quantify the financial and statistical claims.",
     "owner": "quant",
     "priority": "high",
@@ -20,31 +20,43 @@
     "status": "in_progress",
     "created_by": "planner",
     "note": "",
-    "created_at": "2026-03-18T16:01:05",
-    "updated_at": "2026-03-18T16:01:08"
+    "created_at": "2026-03-18T16:12:43",
+    "updated_at": "2026-03-18T16:12:46"
   },
   {
-    "id": "A_81627719",
-    "question": "What are the prominent regulatory changes affecting private credit in 2026?",
+    "id": "A_2bd107b5",
+    "question": "How does the global economic environment from 2025-2026 affect private credit market trends?",
     "owner": "qual",
-    "priority": "high",
+    "priority": "medium",
     "difficulty": "complex",
     "status": "done",
     "created_by": "qual_builder",
-    "note": "Look for financial regulatory body updates and expert commentary.",
-    "created_at": "2026-03-18T16:02:19",
-    "updated_at": "2026-03-18T16:02:56"
+    "note": "Investigate macroeconomic data and geopolitical factors.",
+    "created_at": "2026-03-18T16:13:17",
+    "updated_at": "2026-03-18T16:14:07"
   },
   {
-    "id": "A_26893da8",
-    "question": "What are the latest market volume and participant trends in the private credit sector for 2025-2026?",
+    "id": "A_e007b4a1",
+    "question": "How have interest rate fluctuations from 2024 to 2026 impacted borrowing costs in the private credit market?",
     "owner": "quant",
     "priority": "high",
     "difficulty": "complex",
     "status": "open",
     "created_by": "qual_builder",
-    "note": "Expect significant shifts due to regulatory changes.",
-    "created_at": "2026-03-18T16:02:56",
-    "updated_at": "2026-03-18T16:02:56"
+    "note": "Interest rates directly affect private credit costs and investment viability.",
+    "created_at": "2026-03-18T16:14:07",
+    "updated_at": "2026-03-18T16:14:07"
+  },
+  {
+    "id": "A_897e6304",
+    "question": "What trends in default rates have been observed in private credit markets post-2023?",
+    "owner": "quant",
+    "priority": "high",
+    "difficulty": "complex",
+    "status": "open",
+    "created_by": "qual_builder",
+    "note": "Understanding default trends is critical for assessing market stability.",
+    "created_at": "2026-03-18T16:14:07",
+    "updated_at": "2026-03-18T16:14:07"
   }
 ]
