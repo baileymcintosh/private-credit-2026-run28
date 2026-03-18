@@ -1,0 +1,1 @@
+Private credit industry in 2026: market size and growth, key structures (direct lending, CLOs, NAV facilities, preferred equity), recent high-profile failures and stress events, counterparty and liquidity risks, covenant quality deterioration, regulatory scrutiny, and implications for institutional allocators and public market spillovers.
