@@ -1,18 +1,18 @@
 [
   {
-    "id": "A_d1ec377f",
+    "id": "A_7a95a688",
     "question": "Investigate the geopolitical context, policy responses, and key actors relevant to this research brief.",
     "owner": "qual",
     "priority": "high",
     "difficulty": "complex",
-    "status": "in_progress",
+    "status": "done",
     "created_by": "planner",
     "note": "",
-    "created_at": "2026-03-18T16:22:09",
-    "updated_at": "2026-03-18T16:22:10"
+    "created_at": "2026-03-18T16:32:47",
+    "updated_at": "2026-03-18T16:34:01"
   },
   {
-    "id": "A_65488fe2",
+    "id": "A_21b417d3",
     "question": "Fetch market and economic data, produce charts, and quantify the financial and statistical claims.",
     "owner": "quant",
     "priority": "high",
@@ -20,7 +20,19 @@
     "status": "in_progress",
     "created_by": "planner",
     "note": "",
-    "created_at": "2026-03-18T16:22:09",
-    "updated_at": "2026-03-18T16:22:13"
+    "created_at": "2026-03-18T16:32:47",
+    "updated_at": "2026-03-18T16:32:51"
+  },
+  {
+    "id": "A_5a4960a4",
+    "question": "Interest rate sensitivity to private credit market in historical scenarios like past interest rate hikes by the Federal Reserve or ECB.",
+    "owner": "quant",
+    "priority": "high",
+    "difficulty": "synthesis",
+    "status": "open",
+    "created_by": "qual_builder",
+    "note": "Could provide insights into the current market conditions anticipation.",
+    "created_at": "2026-03-18T16:34:01",
+    "updated_at": "2026-03-18T16:34:01"
   }
 ]

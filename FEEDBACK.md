@@ -1,41 +1,19 @@
-ITERATION 3 — FINAL DEEP RUN. Use all prior research in this repo plus training knowledge. Web search may be unavailable; use knowledge-based sourcing and mark sources accordingly.
+The preliminary report (reporter executive summary from run at 14:18:31) FAILS on multiple quality criteria. Here is specific, actionable feedback:
 
-MANDATORY FIXES FOR THE REPORTER:
+CRITICAL GAPS:
 
-1. NAMED STRUCTURES (all must appear with specifics):
-   - Direct Lending: .7T market as of 2025; typical spread SOFR+600-700bps for middle market; key lenders Blue Owl, Ares, HPS
-   - CLOs: US CLO issuance 85B in 2024; AAA spreads ~130bps over LIBOR/SOFR vs 105bps in 2021 lows; equity tranche IRR targets 15-20%
-   - NAV Facilities: controversy — Carlyle, Apollo using fund NAV as collateral; risk of forced liquidation if NAV drops >20%; ILPA guidance issued 2023
-   - Preferred Equity: used by stressed borrowers as maturity extension alternative; ~0-100B deployed 2023-2024
+1. KEY FINDINGS SECTION MISSING: The report has no explicit '## Key Findings' section with 3+ discrete numbered findings with evidence. Add this section with at least 5 findings, each citing specific numbers (e.g., 'BDC payment default rates more than doubled to 1.1% in 2025 from 0.5% in 2022').
 
-2. NAMED STRESS/FAILURE EVENTS WITH DOLLAR FIGURES (required — pick from):
-   - Envision Healthcare: .7B LBO backed by KKR, filed Chapter 11 May 2023
-   - Pluralsight: ~.5B take-private by Vista Equity, debt restructuring 2023-2024
-   - Genesis Capital crypto exposure: ~.8B in loans to 3AC, filed bankruptcy Jan 2023
-   - Broader: S&P LCD data — private credit default rate reached 3.1% in 2023, up from 1.4% in 2022
-   - 2025-2026 stress: SAS Airlines, Steward Health Care, Red Lobster — sponsored buyouts under stress
+2. CHARTS 4-9 HAVE BOILERPLATE TEXT: Charts 4, 6, 7, 8, and 9 repeat identical generic text about 'the private credit market is expected to continue growing' with no specific data. Each chart analysis paragraph must include: (a) what the chart specifically shows with numbers, (b) why it matters to private credit investors, (c) a specific connection to a named event (e.g., Pluralsight restructuring, HLEND redemption queue, tariff shock).
 
-3. COVENANT QUALITY (required):
-   - Cov-lite loans >90% of new institutional leveraged loan issuance by 2024
-   - EBITDA add-backs inflated average sponsor EBITDA by 20-30% (Moody's 2024 study)
-   - PIK toggle structures used by ~15% of stressed borrowers in 2023-2024
-   - Average recovery rates in cov-lite defaults: ~40-50% vs ~70% historical for covenanted loans
+3. NAMED STRESS EVENTS WITH DOLLAR FIGURES REQUIRED: The report mentions no specific failures by name. Must include: Pluralsight (B debt, Vista equity→/usr/bin/bash, ~00M BDC exposure, ARR-based SOFR+800bps covenant structure, first LME in private credit); Peraton (May 2025, ~00M BDC exposure); First Brands Group (Q3 2025, 37M BDC exposure); HLEND redemption queue (Q1 2025, .2B requests = 9.3% NAV, processed only 20M at 5% quarterly cap).
 
-4. REGULATORY SPECIFICS (all required):
-   - SEC Form PF amendments (November 2023): large hedge funds report within 72 hours of significant events; private equity funds report quarterly
-   - BDC leverage: SBCAA 2018 reduced asset coverage from 200% to 150%, enabling 2:1 leverage; FS KKR, Blue Owl, Ares Capital beneficiaries
-   - SEC private fund adviser rules (August 2023): quarterly statements, annual audits, fairness opinions; partially vacated by 5th Circuit 2024
-   - Gensler-era enforcement: Carlyle 0M SEC fine (2023) for failure to disclose conflicts; Apollo similar scrutiny
+4. STRUCTURE TAXONOMY MISSING: The report does not cover CLOs, NAV facilities, preferred equity, or mezzanine by name. Must add: NAV facilities (~45B market, 17Capital B Brookfield injection, ILPA best-practice guidelines issued 2024); CLO structure (typical 2025 AAA class at SOFR+145bps, private CLO distress only 0.9%); cov-lite in direct lending exploded from 5% (2012) to 58% (2025); EBITDA addbacks now appear in 88% of deals.
 
-5. ALLOCATOR IMPLICATIONS (required full section):
-   - CalPERS 17% private credit target for 2025; CDPQ C0B private credit allocation
-   - Denominator effect: public market losses 2022 forced many LPs over policy limits
-   - Liquidity mismatch: open-ended private credit vehicles (Hamilton Lane, iCapital feeder funds) face redemption queues
-   - J-curve: BDC returns (ARCC +8-12% annual dividend yield) vs closed-end private funds (IRR lag 3-5 years)
+5. REGULATORY SECTION TOO GENERIC: Must name specific actions: SEC Form PF compliance deadline extended to October 1, 2026 (third extension) following Trump's January 20, 2025 executive order; UK FCA multi-firm review of valuation practices; ECB data request on private credit exposures; AIFMD II effective January 2026; BDC leverage rule at 2:1 D/E cap.
 
-6. KEY FINDINGS: 3 structured findings:
-   Finding 1: Market size — private credit AUM .7T (2025), growing at ~15%/year; direct lending comprises ~50% of AUM
-   Finding 2: Stress indicators — default rate 3.1% (2023 peak), cov-lite >90% of loans, recovery rates falling; named failures Envision (.7B), Pluralsight (.5B)
-   Finding 3: Regulatory tightening — SEC Form PF amendments, BDC leverage rule changes, Carlyle 0M fine; allocators adjusting with CalPERS 17% target
+6. ALLOCATOR IMPLICATIONS NEED SPECIFICS: Add: ARCC 90-day correlation to HYG reached 0.856 in current period vs. 0.324 in calm 2024 (vol illusion critique); optimal allocation sizing converges on 10-15%; fee averaging 1.38-1.50% on committed capital; J-curve shallow at ~2 years vs PE at ~4.5 years; secondaries discount 5-15% for performing, 20-40% for stressed portfolios.
 
-7. FIX CHART BOILERPLATE: Charts 4-9 must NOT say 'private credit market expected to continue growing.' Each must cite specific numbers from that specific chart.
+7. QUAL-QUANT LINKAGE: Connect chart inflections to specific events. The VIX spike on April 2, 2025 (Liberation Day tariffs) drove ARCC -18.8% drawdown. The SOFR+550bps floating-rate structure means manufacturers face simultaneous EBITDA compression from tariffs AND rising interest expense. The 2021 vintage is most at risk: portfolio company leverage median 5.3x, B Pluralsight deal was 2021 vintage.
+
+EXISTING STRENGTHS TO RETAIN: The rate and spread data is good (10Y Treasury 4.98% peak Oct 19 2023, HY OAS 3.22%, BKLN +25.4%, loan tightening +50.8% peak Q3 2023). Keep these numbers. The market size figure should be updated to .73T AUM at end-2025 (not the stale .4T by 2025 projection).
