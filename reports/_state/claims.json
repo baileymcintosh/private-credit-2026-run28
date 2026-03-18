@@ -1,1872 +1,898 @@
 [
   {
-    "id": "CLM_d8242e7a",
-    "statement": "In 2026, geopolitical tensions and private credit stress are creating amplified volatility in global markets.",
-    "agent_role": "qual_builder",
-    "confidence": 0.85,
-    "materiality": "core",
-    "kind": "context",
-    "source_ids": [
-      "SRC_cbf2d3bf"
-    ],
-    "artifact_paths": [],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_142551_qual_builder_turn01.md",
-    "status": "needs_revision",
-    "verification_notes": "Core claim lacks two independent tier 1-3 sources.",
-    "created_at": "2026-03-18T14:25:51"
-  },
-  {
-    "id": "CLM_9e49a63c",
-    "statement": "China's economic challenges, including a property downturn, pose significant credit risks in 2026.",
-    "agent_role": "qual_builder",
-    "confidence": 0.9,
-    "materiality": "core",
-    "kind": "context",
-    "source_ids": [
-      "SRC_4d896a2a"
-    ],
-    "artifact_paths": [],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_142551_qual_builder_turn01.md",
-    "status": "needs_revision",
-    "verification_notes": "Core claim lacks two independent tier 1-3 sources.",
-    "created_at": "2026-03-18T14:25:51"
-  },
-  {
-    "id": "CLM_00436df3",
-    "statement": "Europe's fiscal policies in 2026 focus on growth through strategic investments in infrastructure and defense.",
+    "id": "CLM_d4727a2c",
+    "statement": "Covenant-lite loans surged from 5% (2012) to 58% (2025), driven by lender competition due to record dry powder.",
     "agent_role": "qual_builder",
     "confidence": 0.8,
-    "materiality": "supporting",
-    "kind": "context",
-    "source_ids": [
-      "SRC_bee23910"
-    ],
-    "artifact_paths": [],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_142551_qual_builder_turn01.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:25:51"
-  },
-  {
-    "id": "CLM_dfe35a71",
-    "statement": "Regulatory shifts encourage a move from traditional bank loans to private credit solutions across Europe in 2026.",
-    "agent_role": "qual_builder",
-    "confidence": 0.85,
-    "materiality": "supporting",
-    "kind": "context",
-    "source_ids": [
-      "SRC_5193978f"
-    ],
-    "artifact_paths": [],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_142551_qual_builder_turn01.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:25:51"
-  },
-  {
-    "id": "CLM_eab7286f",
-    "statement": "Margin compression in private credit is exacerbated by restrictive global trade policy changes.",
-    "agent_role": "qual_builder",
-    "confidence": 0.9,
     "materiality": "core",
     "kind": "finding",
-    "source_ids": [
-      "SRC_f2d30dcd"
-    ],
+    "source_ids": [],
     "artifact_paths": [],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_142827_qual_builder_turn02.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_152122_qual_builder_turn01.md",
     "status": "needs_revision",
-    "verification_notes": "Core claim lacks two independent tier 1-3 sources.",
-    "created_at": "2026-03-18T14:28:27"
+    "verification_notes": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-18T15:21:22"
   },
   {
-    "id": "CLM_0d232241",
-    "statement": "The elimination of IEEPA tariffs has lowered the average effective tariff rate, impacting private credit risk assessments.",
+    "id": "CLM_f693a890",
+    "statement": "Pluralsight's lender concessions illustrate cov-lite shortfalls, with high initial marks depreciating post-default.",
     "agent_role": "qual_builder",
     "confidence": 0.8,
     "materiality": "core",
+    "kind": "finding",
+    "source_ids": [],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_152122_qual_builder_turn01.md",
+    "status": "needs_revision",
+    "verification_notes": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-18T15:21:22"
+  },
+  {
+    "id": "CLM_01412b10",
+    "statement": "NAV facilities have $45 billion outstanding, with ILPA guidelines responding to leverage concerns.",
+    "agent_role": "qual_builder",
+    "confidence": 0.8,
+    "materiality": "supporting",
     "kind": "context",
-    "source_ids": [
-      "SRC_f4f3f14d",
-      "SRC_5837125b"
-    ],
+    "source_ids": [],
     "artifact_paths": [],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_142827_qual_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:28:27"
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_152122_qual_builder_turn01.md",
+    "status": "needs_revision",
+    "verification_notes": "Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-18T15:21:22"
   },
   {
-    "id": "CLM_a0c61e53",
-    "statement": "Increased tariffs are likely to affect manufacturing sectors more severely, which impacts associated private credit structures.",
+    "id": "CLM_dfc611ae",
+    "statement": "Trump's 2025 executive order extended Form PF deadline, signaling a deregulatory stance.",
     "agent_role": "qual_builder",
-    "confidence": 0.85,
-    "materiality": "supporting",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_a5b51754",
-      "SRC_06e64a14"
-    ],
+    "confidence": 0.8,
+    "materiality": "core",
+    "kind": "timeline",
+    "source_ids": [],
     "artifact_paths": [],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_142827_qual_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:28:27"
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_152122_qual_builder_turn01.md",
+    "status": "needs_revision",
+    "verification_notes": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-18T15:21:22"
   },
   {
-    "id": "CLM_ab8fc3f9",
-    "statement": "Global private credit AUM reached approximately $2.1 trillion by end-2025 (ACC survey of 49 managers); US market alone grew from $500B (2020) to $1.3T (2025), a +160% increase.",
-    "agent_role": "quant_builder",
-    "confidence": 0.85,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_3c396d2f",
-      "SRC_b0e72777",
-      "SRC_93ce9b94"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_ebcab038",
-    "statement": "Preqin projects global private credit AUM to reach $4.5 trillion by 2030, requiring ~16% CAGR from 2025 levels.",
-    "agent_role": "quant_builder",
+    "id": "CLM_1e722276",
+    "statement": "ARCC-HYG 90-day correlation spiked to 0.856 during tariff stress, indicating tight equity-bond co-movement.",
+    "agent_role": "qual_builder",
     "confidence": 0.8,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_b0e72777",
-      "SRC_53c7a0e8"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_86bf45ca",
-    "statement": "European private credit market at ~$530B (2025) projected to reach $940B by 2030; corporate lending in Europe still ~70% bank-reliant vs ~20% in the US.",
-    "agent_role": "quant_builder",
-    "confidence": 0.75,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_93ce9b94"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_80c3d6fc",
-    "statement": "Fed Funds rate rose 542bps (0.08% to 5.50%) over 17 months (Mar 2022 - Jul 2023), then fell 125bps to 4.25% by Jan 2025; private credit mid-market all-in yield peaked at ~11.5% (Nov 2023) and compressed to ~9.75% (Dec 2025).",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
     "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_0a03fe8a",
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
+    "kind": "finding",
+    "source_ids": [],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_152122_qual_builder_turn01.md",
+    "status": "needs_revision",
+    "verification_notes": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
+    "created_at": "2026-03-18T15:21:22"
   },
   {
-    "id": "CLM_dc65ee3c",
-    "statement": "BDC total returns Jan 2023 to Dec 2025: ARCC +45.0%, OBDC +47.2%, GBDC +44.0%, FSK +31.6%, PFLT +17.2%; FSK max drawdown from ATH is -34.3% vs -8.7% for ARCC.",
-    "agent_role": "quant_builder",
-    "confidence": 0.95,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_6aaed592",
-    "statement": "US private credit default rate (Fitch) rose from 0.8% (Q1 2022) to 5.7% peak (Q2 2025), settling to ~5.1% by Q4 2025.",
-    "agent_role": "quant_builder",
-    "confidence": 0.85,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_22b6b3cd"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_45d95c9d",
-    "statement": "Healthcare roll-up default rate reached 7.0% in 2024 (KBRA), the highest subsector; interest coverage 1.1x; $45B debt outstanding, $18-27B in BDC portfolios (4-6% of BDC assets).",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
-    "materiality": "core",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_1940d829"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_6705ff4a",
-    "statement": "Covenant-lite prevalence in private credit (2025): 50-55% of mega-deals (>$500M debt) entirely lack financial maintenance covenants; 30% of upper mid-market deals are cov-lite; only 8% in lower mid-market.",
-    "agent_role": "quant_builder",
-    "confidence": 0.85,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_c81d81e2"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_0b1e4562",
-    "statement": "PIK loans peaked at approximately 10% of BDC interest income and 11-12% of BDC loan holdings by value in mid-2024, before declining as rate cuts eased distress.",
-    "agent_role": "quant_builder",
-    "confidence": 0.82,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_22b6b3cd"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_f06f7789",
-    "statement": "EBITDA covenant cushions in private credit typically allow 30-40% EBITDA decline before triggering breach; lender conservative leverage view is 30-40% above sponsor-reported adjusted EBITDA.",
-    "agent_role": "quant_builder",
-    "confidence": 0.8,
-    "materiality": "supporting",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_c81d81e2",
-      "SRC_278483fa"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_fb660e4f",
-    "statement": "IEEPA Liberation Day (April 2, 2025) triggered VIX spike from 20.9 (30-day avg) to 52.3 on April 8 (+150%), the largest volatility spike since COVID-19; HYG drew down -3.7% in the window.",
-    "agent_role": "quant_builder",
-    "confidence": 0.95,
-    "materiality": "core",
-    "kind": "market_impact",
-    "source_ids": [
-      "SRC_0a03fe8a",
-      "SRC_ab89aed4"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_01ce9c13",
-    "statement": "Supreme Court ruled February 20, 2026 that IEEPA does not authorize tariffs; Section 122 replacement tariff of 15% on all imports effective February 24, 2026 for 150 days (expires July 24, 2026).",
-    "agent_role": "quant_builder",
-    "confidence": 0.98,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_ab89aed4",
-      "SRC_a9d76d04"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_0e0c6f7f",
-    "statement": "Over 90% of tariff costs borne by US businesses and consumers per NY Fed research (2025); fabricated metals face 12% added cost under Section 122; auto tariffs remain at 5.6%.",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_a9d76d04"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_cba511d5",
-    "statement": "China large-cap equity (FXI) fell -42.4% from January 2022 to October 2022 trough; recovered +16.8% vs January 2022 base by December 2025 following PBOC stimulus package (September 24, 2024).",
-    "agent_role": "quant_builder",
-    "confidence": 0.95,
-    "materiality": "supporting",
-    "kind": "market_impact",
-    "source_ids": [
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_7a452647",
-    "statement": "Private credit illiquidity premium over public HY compressed from ~330bps (July 2023) to ~265bps (December 2025) as BSL markets tightened; LMM direct lending retains 100-150bps premium vs syndicated loans.",
-    "agent_role": "quant_builder",
-    "confidence": 0.78,
-    "materiality": "core",
-    "kind": "comparison",
-    "source_ids": [
-      "SRC_48baf647",
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_e7ecb824",
-    "statement": "Fee drag at 12% gross IRR: closed-end fund (1.5% committed + 20% carry above 7% hurdle) returns ~9.0% net to LP; BDC/perpetual (1.0% + 20% carry) returns ~9.7% net.",
-    "agent_role": "quant_builder",
-    "confidence": 0.85,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_b0e72777",
-      "SRC_93ce9b94"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_0e00a02e",
-    "statement": "Vintage 2022 private credit funds experienced approximately 2 additional quarters of J-curve extension compared to 2019/2021 vintages due to deployment during peak rate uncertainty.",
-    "agent_role": "quant_builder",
-    "confidence": 0.7,
-    "materiality": "supporting",
-    "kind": "comparison",
-    "source_ids": [
-      "SRC_53c7a0e8",
-      "SRC_48baf647"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_69a5c702",
-    "statement": "NAV facility market grew from ~$50B (2019) to ~$400B (2025), +700% in 6 years; LTV typically 15-25% of portfolio NAV; cross-collateralization risk creates contagion across performing assets when one portfolio company defaults.",
-    "agent_role": "quant_builder",
-    "confidence": 0.72,
-    "materiality": "core",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_b0e72777",
-      "SRC_93ce9b94"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_1415d0e0",
-    "statement": "LMM direct lending spreads command SOFR+450 to SOFR+475bps, a 100-150bp premium over syndicated markets, with maintenance covenants and restrictions on additional debt.",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_48baf647"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_331224e2",
-    "statement": "Global private capital deal value reached $2.3 trillion as of November 30, 2025, the best year since 2021; transactions of $10B+ in a calendar year hit a record high (Preqin).",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_b0e72777"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844613_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844683_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844730_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844773_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844822_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844882_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773844933_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_144518_quant_builder_turn02.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:45:18"
-  },
-  {
-    "id": "CLM_05b7ad42",
-    "statement": "Private credit secondaries averaged 92% of NAV in H1 2025, up from 91% at end-2024",
+    "id": "CLM_47b7a4a6",
+    "statement": "Private credit AUM grew from $0.25T (2012) to $1.73T (2024), a +740% increase over 13 years.",
     "agent_role": "quant_builder",
     "confidence": 0.92,
     "materiality": "core",
     "kind": "data_point",
     "source_ids": [
-      "SRC_6c9f3f8f"
+      "SRC_bc531c7a"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_354683dc",
-    "statement": "Senior direct lending secondary transactions cleared at 97\u201398% NAV (2\u20133% discount) in H1 2025",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_6c9f3f8f",
-      "SRC_6224e243"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_2fc8722f",
-    "statement": "GP-led credit continuation vehicle transactions averaged ~98% of gross NAV in 2025",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_6224e243"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_09fab0c3",
-    "statement": "Asia fund credit secondaries trade at 30%+ discounts to NAV on average",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_6c9f3f8f"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_fcfdf401",
-    "statement": "2025 estimated total private credit secondary transaction volume is ~$20 billion, roughly doubling from 2024",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_6224e243",
-      "SRC_e1f56b1a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_c3cd4916",
-    "statement": "GP-led credit secondaries grew 202% YoY in 2025 to $12 billion, surpassing LP-led volume for the first time",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_6224e243"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_92f3129a",
-    "statement": "Credit secondaries as % of total AUM is ~1%, vs. PE market's 2\u20133% \u2014 indicating early market immaturity",
-    "agent_role": "quant_builder",
-    "confidence": 0.85,
-    "materiality": "supporting",
-    "kind": "comparison",
-    "source_ids": [
-      "SRC_71742bdd",
-      "SRC_6224e243"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_4eb1fde0",
-    "statement": "Average private credit loan duration has extended from 2\u20133 years to 4\u20135 years, increasing LP demand for secondary exits",
+    "id": "CLM_276c8843",
+    "statement": "Private credit AUM projected to reach $3.5T by 2030, implying ~13% CAGR from 2024 base.",
     "agent_role": "quant_builder",
     "confidence": 0.8,
     "materiality": "core",
-    "kind": "risk",
+    "kind": "data_point",
     "source_ids": [
-      "SRC_71742bdd"
+      "SRC_bc531c7a"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_139545c1",
-    "statement": "FXI is +11.4% vs. January 2022 levels and +93.6% from its October 2022 trough of $19.06",
+    "id": "CLM_c7f05f4c",
+    "statement": "BXSL returned +51%, ARCC +36%, HYG +30%, FSK -10%, TPVG -19% since January 2023 (live price data through March 18, 2026).",
     "agent_role": "quant_builder",
     "confidence": 0.99,
     "materiality": "core",
-    "kind": "data_point",
+    "kind": "market_impact",
     "source_ids": [
-      "SRC_0a03fe8a"
+      "SRC_62867914"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_8a273f77",
-    "statement": "China HY property OAS remains at approximately 780bps (early 2026), vs. ~350bps pre-crisis \u2014 a 2.2\u00d7 residual risk premium",
+    "id": "CLM_b4abfcda",
+    "statement": "VIX peaked at 52.3 on April 8, 2025 following the April 2 tariff shock announcement.",
     "agent_role": "quant_builder",
-    "confidence": 0.75,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_cbe2a6c5",
-      "SRC_16a4912d"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_17bada14",
-    "statement": "FXI recovery (+11.4%) is decoupled from Chinese developer credit quality: equity driven by state banks, tech; not property sector",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
+    "confidence": 0.99,
     "materiality": "core",
     "kind": "market_impact",
     "source_ids": [
-      "SRC_0a03fe8a",
-      "SRC_16a4912d",
-      "SRC_4d896a2a"
+      "SRC_62867914"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_516f5f91",
-    "statement": "China Vanke entered restricted default in January 2026 when seeking to extend onshore bond payment deadline",
+    "id": "CLM_4c8cad32",
+    "statement": "ARCC-HYG 90-day rolling correlation rose from 0.450 (calm, Jun-Aug 2024) to 0.920 (tariff stress, Apr-May 2025), a +0.470 increase.",
     "agent_role": "quant_builder",
-    "confidence": 0.95,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_4d896a2a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_ed4d4690",
-    "statement": "China nationwide residential sales fell to 7.3 trillion yuan in 2025, lowest since 2015; property investment fell 17.2% YoY",
-    "agent_role": "quant_builder",
-    "confidence": 0.92,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_4d896a2a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_ba7fec88",
-    "statement": "Country Garden seeks Hong Kong court-backed restructuring targeting $12.7 billion debt reduction over 5 years",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_bd882ba0"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_af6f9b4a",
-    "statement": "China property sector represents only 4% of Asian HY index after mass-index cleanup from ~35% at peak",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_16a4912d"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_df03e16c",
-    "statement": "CRE HY yield at 9.19% (B+ rated) vs EM HY benchmark 8.04% (BB- rated); H1 2025 return of +7.33% outperformed CEMBI Broad HY at +3.91%",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_cbe2a6c5"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_471c7e45",
-    "statement": "FXI rolling correlation with HYG (US high yield) is stable at ~0.33 throughout 2021\u20132026, confirming persistent equity-credit decoupling",
-    "agent_role": "quant_builder",
-    "confidence": 0.95,
-    "materiality": "supporting",
-    "kind": "comparison",
-    "source_ids": [
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_3d547cee",
-    "statement": "A&O Shearman warns of second-time defaults on restructured Chinese developer debt in 2026, as initial restructurings re-encounter liquidity stress",
-    "agent_role": "quant_builder",
-    "confidence": 0.78,
-    "materiality": "core",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_f02ca09d"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845182_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845212_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845257_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845287_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845323_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145048_quant_builder_turn03.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:50:48"
-  },
-  {
-    "id": "CLM_f22b74e4",
-    "statement": "Credit secondaries transaction volume reached $20bn in 2025, growing 80% year-over-year from $11bn in 2024",
-    "agent_role": "quant_builder",
-    "confidence": 0.92,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_d4f69d21",
-      "SRC_61847255",
-      "SRC_e1f56b1a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_d0495ae3",
-    "statement": "Credit secondaries turnover rate is ~1.0% of $2tn AUM in 2025, versus ~3.65% for PE secondaries on $6.2tn AUM \u2014 a 2.65 percentage point gap",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
+    "confidence": 0.97,
     "materiality": "core",
     "kind": "comparison",
     "source_ids": [
-      "SRC_61847255",
-      "SRC_dc847a7b"
+      "SRC_62867914"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_9c067462",
-    "statement": "GP-led credit secondaries transactions priced at an average of 98 cents on the dollar in 2025",
+    "id": "CLM_fb33f098",
+    "statement": "ARCC share price peaked at $21.64 (July 17, 2025) and troughed at $16.19 (February 6, 2024), a -25.1% peak-to-trough drawdown within 2024-2026.",
+    "agent_role": "quant_builder",
+    "confidence": 0.99,
+    "materiality": "supporting",
+    "kind": "market_impact",
+    "source_ids": [
+      "SRC_62867914"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:33:45"
+  },
+  {
+    "id": "CLM_e7935e37",
+    "statement": "ARCC currently trades at $18.57, approximately -3.6% below estimated NAV of $19.26.",
     "agent_role": "quant_builder",
     "confidence": 0.85,
     "materiality": "supporting",
-    "kind": "data_point",
+    "kind": "market_impact",
     "source_ids": [
-      "SRC_d4f69d21",
-      "SRC_54cc2cd1"
+      "SRC_62867914",
+      "SRC_ee49ec32"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_6549de0c",
-    "statement": "GP-led share of credit secondaries jumped from 33% (2024) to 60% (2025) \u2014 a structural shift driven by continuation vehicles",
+    "id": "CLM_bf694467",
+    "statement": "FSK experienced a -51% drawdown from highs; TPVG experienced a -41% drawdown \u2014 the two worst in the BDC universe.",
     "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_61847255",
-      "SRC_e1f56b1a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_4b46f3e1",
-    "statement": "Dedicated secondary market dry powder reached $327bn in 2025 (+14% YoY), including $37bn specific to credit secondaries",
-    "agent_role": "quant_builder",
-    "confidence": 0.85,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_dc847a7b",
-      "SRC_d4f69d21"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_5061431a",
-    "statement": "China property high-yield weighting in JPMorgan CEMBI Broad Index fell from 8.94% (2020) to 2.17% (August 2025)",
-    "agent_role": "quant_builder",
-    "confidence": 0.93,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_3141e280"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_603473b8",
-    "statement": "JACI high-yield segment China property allocation declined from 38.21% to 7.27% over 2020-2025",
-    "agent_role": "quant_builder",
-    "confidence": 0.93,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_3141e280"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_0fc0f497",
-    "statement": "IPEV 2025 guidelines, effective Q2 2026, eliminate the PRI safe harbor period and require on-demand revaluation on material events",
-    "agent_role": "quant_builder",
-    "confidence": 0.95,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_1c300d42",
-      "SRC_79a4f120",
-      "SRC_71ddb3c9"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_ddd9cf3d",
-    "statement": "FSK (FS KKR Capital) trades at approximately -34% discount to its reported NAV/share as of May 2025, compared to -5% for ARCC",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
+    "confidence": 0.99,
     "materiality": "core",
     "kind": "market_impact",
     "source_ids": [
-      "SRC_0a03fe8a",
-      "SRC_e2e38dfb"
+      "SRC_62867914"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_cd2a9fe2",
-    "statement": "Average BDC discount to NAV across ARCC, FSK, BXSL, GBDC is 16.2% as of May 2025",
+    "id": "CLM_32b09b1c",
+    "statement": "Cov-lite share expanded from 5% (2012) to 58% (2025), a +53 percentage point deterioration in covenant quality.",
+    "agent_role": "quant_builder",
+    "confidence": 0.88,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_405a1225",
+      "SRC_b301fc27"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:33:45"
+  },
+  {
+    "id": "CLM_f0dd5e0d",
+    "statement": "EBITDA addback realization windows expanded from 12 months (2018) to 36 months (2024); synergy addbacks present in 88% of deals.",
     "agent_role": "quant_builder",
     "confidence": 0.87,
     "materiality": "core",
     "kind": "data_point",
     "source_ids": [
-      "SRC_0a03fe8a"
+      "SRC_6aed5eb3",
+      "SRC_405a1225"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_31337e99",
-    "statement": "Country Garden shareholders approved a $13bn convertible bond restructuring in December 2025; restructuring remains incomplete",
-    "agent_role": "quant_builder",
-    "confidence": 0.95,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_02f05b2e"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_e028d454",
-    "statement": "GP consent rights on LP transfers are the highest-severity structural barrier to credit secondaries reaching PE-level market depth, rated 9.2/10 severity and 3.5/10 near-term solvability",
-    "agent_role": "quant_builder",
-    "confidence": 0.82,
-    "materiality": "core",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_61847255",
-      "SRC_dc847a7b",
-      "SRC_e1f56b1a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_8c5fcfe2",
-    "statement": "29% of GP-led secondary transactions in 2025 incorporated deferred purchase price mechanisms, reflecting pricing uncertainty",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_54cc2cd1",
-      "SRC_dc847a7b"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_a493c8a7",
-    "statement": "Chinese developer bonds held by private credit GPs are typically marked 10-30 cents above secondary market clearing prices, based on IPEV methodology divergence",
-    "agent_role": "quant_builder",
-    "confidence": 0.72,
-    "materiality": "core",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_3141e280",
-      "SRC_02f05b2e",
-      "SRC_e2e38dfb"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845525_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845574_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845606_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845643_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_145642_quant_builder_turn04.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T14:56:42"
-  },
-  {
-    "id": "CLM_24598a29",
-    "statement": "FSK's NAV discount to book value is 53.2% as of March 2026 \u2014 not the -34% cited in the research brief, which is stale by approximately 20 percentage points.",
-    "agent_role": "quant_builder",
-    "confidence": 0.92,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_44db97d9"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_b32c9b04",
-    "statement": "FSK peer NAV discounts range from 7.5% (ARCC) to 22.7% (OBDC), making FSK's discount 44 percentage points deeper than the peer median of 9.1%.",
-    "agent_role": "quant_builder",
-    "confidence": 0.92,
-    "materiality": "core",
-    "kind": "comparison",
-    "source_ids": [
-      "SRC_44db97d9",
-      "SRC_8186f5b2",
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_95b465cf",
-    "statement": "FSK's non-accrual rate of 4.8% is 4x the peer average of ~1.2%, with near-zero ROE vs ~9% for ARCC, OBDC, and BXSL.",
-    "agent_role": "quant_builder",
-    "confidence": 0.85,
-    "materiality": "core",
-    "kind": "comparison",
-    "source_ids": [
-      "SRC_44db97d9",
-      "SRC_8186f5b2",
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_7752a63b",
-    "statement": "FSK stock has declined 50.2% from its 52-week high of $20.60 to the current $9.78, vs ARCC up 32.8% since January 2022.",
-    "agent_role": "quant_builder",
-    "confidence": 0.95,
-    "materiality": "core",
-    "kind": "market_impact",
-    "source_ids": [
-      "SRC_44db97d9",
-      "SRC_8186f5b2"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_9fae5b7d",
-    "statement": "FSK's implied dividend yield of 26.2% is a distress signal, not an income opportunity \u2014 the yield is mechanically inflated by the price collapse, not a dividend increase.",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "supporting",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_44db97d9"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_525f9d6f",
-    "statement": "CLO BBB tranches (11% attachment) imply a 18.3% cumulative default rate tolerance before IG paper is impaired, using 40% recovery assumption.",
+    "id": "CLM_e0cf6cad",
+    "statement": "BDC nonaccrual rate reached 5.7% in 2024, exceeding the COVID-era peak of 3.2% in 2020.",
     "agent_role": "quant_builder",
     "confidence": 0.88,
     "materiality": "core",
     "kind": "data_point",
     "source_ids": [
-      "SRC_5d8c2b27"
+      "SRC_405a1225"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_08d6e4f2",
-    "statement": "Chinese property credit observable market prices average 10.2 cents on the dollar vs typical GP marks of 31.3 cents \u2014 a 3.3x overmark multiple.",
-    "agent_role": "quant_builder",
-    "confidence": 0.8,
-    "materiality": "core",
-    "kind": "comparison",
-    "source_ids": [
-      "SRC_4c777711"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_3246cd7c",
-    "statement": "CLO pricing (BBB spread 475bps, implied 18.3% CDR) directly contradicts GP private credit marks on equivalent Chinese property exposures \u2014 markets have priced the distress; GP books have not.",
-    "agent_role": "quant_builder",
-    "confidence": 0.82,
-    "materiality": "core",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_4c777711",
-      "SRC_5d8c2b27"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_d284694a",
-    "statement": "$37bn in credit secondaries dry powder covers only 37% of the $100bn selling pressure in a 5% liquidation stress scenario, leaving $63bn in unmet secondary market demand.",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_691f6e45"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_7c6083bc",
-    "statement": "Even a moderate 3% stress scenario ($60bn sellers) leaves $23bn unmet \u2014 the $37bn dry powder is insufficient outside a genuine base case environment.",
+    "id": "CLM_579b0245",
+    "statement": "Pluralsight (Vista Equity, 2021 vintage) was the first documented LME in private credit: IP drop-down funded interest, ultimately resolved via equity-for-debt swap; lenders marked above 95c until default.",
     "agent_role": "quant_builder",
     "confidence": 0.88,
     "materiality": "core",
     "kind": "risk",
     "source_ids": [
-      "SRC_691f6e45"
+      "SRC_b301fc27"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_301e1073",
-    "statement": "At 200 secondary transactions per year globally and $150mn average ticket size, clearing the stress scenario would require 667 deals and approximately 3.3 years.",
-    "agent_role": "quant_builder",
-    "confidence": 0.78,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_691f6e45"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_1bb43ad5",
-    "statement": "HY OAS at 322bps is at the 39th percentile of the 2021\u20132026 range (259\u2013599bps), indicating moderate but not systemic credit stress as of March 2026.",
-    "agent_role": "quant_builder",
-    "confidence": 0.95,
-    "materiality": "supporting",
-    "kind": "market_impact",
-    "source_ids": [
-      "SRC_7bf33e04"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_e61944d4",
-    "statement": "Estimated private credit all-in yield is approximately 8.95% (4.23% risk-free + 3.22% HY spread + 1.5% illiquidity premium) as of March 2026.",
-    "agent_role": "quant_builder",
-    "confidence": 0.82,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_7bf33e04",
-      "SRC_7de0d91a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845920_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773845951_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846005_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846056_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846125_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150414_quant_builder_turn05.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:04:14"
-  },
-  {
-    "id": "CLM_6c6320b5",
-    "statement": "HY OAS at 322 bps sits at the 39th historical percentile (2017-2025), implying near-benign credit market pricing with no tariff risk premium embedded",
-    "agent_role": "quant_builder",
-    "confidence": 0.82,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_7bf33e04"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
-  },
-  {
-    "id": "CLM_3c20bb2e",
-    "statement": "2018 Section 232/301 tariff shock drove HY OAS from 332 bps to 533 bps (+201 bps, +60.5%) over 10 months \u2014 establishing the tariff shock spread response benchmark",
-    "agent_role": "quant_builder",
-    "confidence": 0.9,
-    "materiality": "core",
-    "kind": "comparison",
-    "source_ids": [
-      "SRC_7bf33e04",
-      "SRC_802c0999"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
-  },
-  {
-    "id": "CLM_63931cd8",
-    "statement": "2018-analogue spread scenario applied to current 322 bps baseline implies potential widening to 523 bps \u2014 a stress scenario that current pricing does not reflect",
-    "agent_role": "quant_builder",
-    "confidence": 0.7,
-    "materiality": "core",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_7bf33e04",
-      "SRC_3e24e6ab"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
-  },
-  {
-    "id": "CLM_4fc32e81",
-    "statement": "Private credit stress lags public HY spreads by an additional 6-12 months due to quarterly NAV marks, PIK toggle provisions, and limited secondary price discovery",
-    "agent_role": "quant_builder",
-    "confidence": 0.78,
-    "materiality": "core",
-    "kind": "risk",
-    "source_ids": [
-      "SRC_7bf33e04",
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
-  },
-  {
-    "id": "CLM_631ab613",
-    "statement": "FSK's 1.5% management fee on gross assets (~2.15x NAV) generates $3.23 annual fee per $100 NAV vs ARCC's 1.0% generating $2.10 \u2014 a $1.13 structural annual disadvantage",
-    "agent_role": "quant_builder",
-    "confidence": 0.88,
-    "materiality": "core",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_7f7a85a2",
-      "SRC_1a15f372"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
-  },
-  {
-    "id": "CLM_5795ae97",
-    "statement": "At 10% gross portfolio return, ARCC nets 7.00% vs FSK 6.77% \u2014 a 23 bps annualized fee drag differential; at 11-12% gross the gap widens to 90-150 bps",
+    "id": "CLM_fdc01838",
+    "statement": "NAV facilities outstanding grew from $8B (2019) to $45B (2024), projected $58B by 2025.",
     "agent_role": "quant_builder",
     "confidence": 0.85,
     "materiality": "core",
     "kind": "data_point",
     "source_ids": [
-      "SRC_7f7a85a2",
-      "SRC_1a15f372"
+      "SRC_5f50cd9e"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_cc79afeb",
-    "statement": "Five-year compounding at 10% gross: ARCC cumulative 40.3% vs FSK 38.8% \u2014 fee drag accounts for 1.5 pp total return differential",
+    "id": "CLM_599611b6",
+    "statement": "ILPA issued NAV lending best-practice guidelines in 2024 following GP use of NAV lines to fund LP distributions.",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "core",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_5f50cd9e"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:33:45"
+  },
+  {
+    "id": "CLM_952acfa0",
+    "statement": "HLEND (Blackstone private credit) had a $1.2B redemption queue with 5% quarterly gate; approximately $80M remains queued.",
     "agent_role": "quant_builder",
     "confidence": 0.85,
+    "materiality": "core",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_191f24aa"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:33:45"
+  },
+  {
+    "id": "CLM_a98aba69",
+    "statement": "Trump Executive Order (January 20, 2025) extended Form PF reporting deadline to October 2026.",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
     "materiality": "supporting",
     "kind": "data_point",
     "source_ids": [
-      "SRC_7f7a85a2",
-      "SRC_1a15f372"
+      "SRC_57973b2e"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_24df7a0b",
-    "statement": "FSK trades at -17.7% discount to NAV vs ARCC at -5.8% \u2014 an 11.8 pp gap; fee drag explains only ~1.1 pp (9.6%) of this discount",
+    "id": "CLM_270b27a1",
+    "statement": "Reported private credit NAV volatility (~4% annualised) understates economic volatility (~7.5%), overstating diversification by approximately 40%.",
     "agent_role": "quant_builder",
-    "confidence": 0.8,
+    "confidence": 0.82,
     "materiality": "core",
-    "kind": "data_point",
+    "kind": "risk",
     "source_ids": [
-      "SRC_0a03fe8a",
-      "SRC_0a03fe8a"
+      "SRC_e76ede1b",
+      "SRC_d85d802d"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_fc85a82f",
-    "statement": "Portfolio quality, manager track record, and dividend coverage durability explain ~10.7 of 11.8 pp NAV discount gap between FSK and ARCC",
-    "agent_role": "quant_builder",
-    "confidence": 0.72,
-    "materiality": "core",
-    "kind": "market_impact",
-    "source_ids": [
-      "SRC_0a03fe8a",
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
-  },
-  {
-    "id": "CLM_f7bb7106",
-    "statement": "BDC P/NAV vs management fee correlation across 9-name universe is only -0.23, confirming fee structure is a weak predictor of market valuation",
-    "agent_role": "quant_builder",
-    "confidence": 0.83,
-    "materiality": "supporting",
-    "kind": "data_point",
-    "source_ids": [
-      "SRC_0a03fe8a",
-      "SRC_0a03fe8a"
-    ],
-    "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
-    ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
-    "status": "verified",
-    "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
-  },
-  {
-    "id": "CLM_0d097f67",
-    "statement": "ARCC drew down only -2.0% during the full 2018 tariff shock period (Mar-Dec 2018) vs SPY -12.9%, suggesting quarterly NAV marks or genuine credit resilience",
+    "id": "CLM_0bcd1844",
+    "statement": "Institutional consensus recommends 10\u201315% allocation to private credit (JP Morgan, Preqin, iCapital, BlackRock); typical actual allocation is 4\u20137%.",
     "agent_role": "quant_builder",
     "confidence": 0.88,
     "materiality": "supporting",
     "kind": "comparison",
     "source_ids": [
-      "SRC_0a03fe8a"
+      "SRC_8adde7d1",
+      "SRC_e76ede1b",
+      "SRC_bc531c7a"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
+    "created_at": "2026-03-18T15:33:45"
   },
   {
-    "id": "CLM_db5cafcf",
-    "statement": "2025 tariff package scope is broader than 2018: universal 10% baseline + 145% China rate vs sector-specific 2018 measures, implying potentially larger credit impact",
+    "id": "CLM_c1896fbc",
+    "statement": "Basel III capital requirements raise the cost of leveraged loan origination on bank balance sheets, paradoxically creating a structural tailwind for private credit growth.",
+    "agent_role": "quant_builder",
+    "confidence": 0.85,
+    "materiality": "supporting",
+    "kind": "comparison",
+    "source_ids": [
+      "SRC_8adde7d1"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847395_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847459_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847497_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847560_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847596_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847734_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847791_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847821_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847857_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773847890_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_153345_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:33:45"
+  },
+  {
+    "id": "CLM_02e810c3",
+    "statement": "TPVG has declined \u221247.1% from its November 2021 peak of $9.95 to $5.26 as of March 17, 2026.",
+    "agent_role": "quant_builder",
+    "confidence": 0.98,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_c98b64f0"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_581372a5",
+    "statement": "TPVG trades at a \u221227.2% discount to its estimated Q3 2024 NAV of $7.23/share, indicating structural impairment not price overshoot.",
+    "agent_role": "quant_builder",
+    "confidence": 0.85,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_c98b64f0",
+      "SRC_22dce941"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_071a5b82",
+    "statement": "TPVG's decline is structural (NAV erosion from VC portfolio defaults, dividend cut, SVB contagion) not a VIX-driven overshoot \u2014 the P/NAV discount preceded and persisted through the tariff shock.",
+    "agent_role": "quant_builder",
+    "confidence": 0.9,
+    "materiality": "core",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_c98b64f0",
+      "SRC_befb3d96",
+      "SRC_22dce941"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_d2aa31d4",
+    "statement": "ARCC drew down \u221215.2% during the April 2\u201315, 2025 tariff shock (VIX peaked at 52.3), recovering only +7.6% from the trough to remain \u22128.6% below pre-tariff levels as of March 17, 2026.",
+    "agent_role": "quant_builder",
+    "confidence": 0.97,
+    "materiality": "core",
+    "kind": "market_impact",
+    "source_ids": [
+      "SRC_30525c51",
+      "SRC_befb3d96"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_6ca07c18",
+    "statement": "BXSL fell \u221217.9%, GBDC \u221214.3%, TPVG \u221217.7%, and HYG only \u22123.7% during the April 2025 tariff shock \u2014 BDC drawdowns were 4\u20135\u00d7 the HY ETF decline.",
+    "agent_role": "quant_builder",
+    "confidence": 0.97,
+    "materiality": "core",
+    "kind": "comparison",
+    "source_ids": [
+      "SRC_30525c51",
+      "SRC_5d7ed89d",
+      "SRC_62867914"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_88b0c212",
+    "statement": "ARCC-HYG 90-day rolling correlation rose from 0.489 (calm 2023) to 0.860 during the tariff stress period (March\u2013June 2025), a +0.371 regime shift demonstrating that BDC diversification benefits collapse during stress.",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "core",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_30525c51",
+      "SRC_5d7ed89d"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_f199a260",
+    "statement": "ICE BofA HY OAS is 322bps (3.22%) as of March 17, 2026, implying a default rate of 5.37% under 40% recovery assumption (Merton: OAS/(1\u2212RR)).",
+    "agent_role": "quant_builder",
+    "confidence": 0.97,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_bd00641d"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_64dd76a3",
+    "statement": "HY OAS spiked to 461bps during the April 7, 2025 tariff peak, implying a transient default rate of 7.68% \u2014 highest since October 2023 \u2014 before compressing back to 322bps.",
+    "agent_role": "quant_builder",
+    "confidence": 0.97,
+    "materiality": "core",
+    "kind": "market_impact",
+    "source_ids": [
+      "SRC_bd00641d"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_b0148014",
+    "statement": "BDC nonaccrual rate (5.7%, KBRA 2025) exceeds the HY spread-implied default rate (5.37%) by +33bps, and exceeds the HY actual trailing default rate (3.1%) by +260bps \u2014 an 84% excess.",
+    "agent_role": "quant_builder",
+    "confidence": 0.85,
+    "materiality": "core",
+    "kind": "comparison",
+    "source_ids": [
+      "SRC_bd00641d",
+      "SRC_dd174cd6",
+      "SRC_8be0b964"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_c209d8f5",
+    "statement": "NAV facility market grew from $12B outstanding (2020) to $45B (2024), a 275% increase in four years, projected to reach ~$58B in 2025.",
+    "agent_role": "quant_builder",
+    "confidence": 0.8,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_e76ede1b"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_019f1636",
+    "statement": "HLEND (Blue Owl) redemption queue peaked at ~$280M in Q2 2024 with ~$80\u2013120M still pending as of early 2025; the 5% quarterly gate on $17.2B AUM allows maximum $860M/quarter in redemptions.",
     "agent_role": "quant_builder",
     "confidence": 0.8,
     "materiality": "core",
     "kind": "risk",
     "source_ids": [
-      "SRC_3e24e6ab",
-      "SRC_802c0999"
+      "SRC_49a3f62c",
+      "SRC_e76ede1b"
     ],
     "artifact_paths": [
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846334_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846393_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846431_01.png",
-      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773846458_01.png"
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
     ],
-    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_150935_quant_builder_turn06.md",
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
     "status": "verified",
     "verification_notes": "Claim has sufficient provenance.",
-    "created_at": "2026-03-18T15:09:35"
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_8d54f0f5",
+    "statement": "ARCC intraday price range (liquidity proxy) averaged 2.54% during the April 2025 tariff window vs. 1.39% in calm 2023 \u2014 an 83% deterioration in liquidity for a listed BDC during stress.",
+    "agent_role": "quant_builder",
+    "confidence": 0.9,
+    "materiality": "supporting",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_30525c51"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_a86385a9",
+    "statement": "ARCC, GBDC, and BXSL have returned +36.1%, +37.6%, and +50.3% respectively since January 2023, while TPVG has returned \u221219.0% \u2014 a 55\u201369 percentage point performance gap reflecting idiosyncratic VC portfolio deterioration.",
+    "agent_role": "quant_builder",
+    "confidence": 0.98,
+    "materiality": "supporting",
+    "kind": "comparison",
+    "source_ids": [
+      "SRC_30525c51",
+      "SRC_c98b64f0",
+      "SRC_62867914"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
+  },
+  {
+    "id": "CLM_7c30115d",
+    "statement": "HY yield-to-worst is 7.02% (10Y UST at 4.23%), confirming a 279bps excess yield; the tariff peak YTW reached 8.51%.",
+    "agent_role": "quant_builder",
+    "confidence": 0.97,
+    "materiality": "supporting",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_e0b44037",
+      "SRC_7ccb4f59"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848509_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848550_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848600_01.png",
+      "/tmp/projects/private-credit-2026-run28/reports/chart_quant_1773848655_01.png"
+    ],
+    "report_path": "/tmp/projects/private-credit-2026-run28/reports/20260318_154636_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T15:46:36"
   }
 ]
